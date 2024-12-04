@@ -1,0 +1,10 @@
+model_training_logs/
+local_files/
+.idea/
+/prodigy-1.10.8-cp36.cp37.cp38-cp36m.cp37m.cp38-linux_x86_64.whl
+/data/
+/figures/
+
+# Project exclude paths
+/trained_models/
+/pk_tableclass.egg-info/
