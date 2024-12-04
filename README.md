@@ -51,7 +51,6 @@ To create a suitable environment:
 - `conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch`
 - `pip install -e .`
 
-
 #### GPU Support
 
 Using GPU is recommended. Single-GPU training has been tested with:
