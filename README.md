@@ -120,6 +120,17 @@ _See [LICENSE](./LICENSE) for more information._
 ## Citation
 
 ```bibtex
-tbc 
+@article{Smith2025,
+  author       = {Smith, Victoria C. and Gonzalez Hernandez, Ferran and Wattanakul, Thanaporn and Chotsiri, Palang and Cordero, José Antonio and Ballester, Maria Rosa and Duran, Màrius and Fanlo Escudero, Olga and Lilaonitkul, Watjana and Standing, Joseph F. and Kloprogge, Frank},
+  title        = {An automated classification pipeline for tables in pharmacokinetic literature},
+  journal      = {Scientific Reports},
+  year         = {2025},
+  volume       = {15},
+  number       = {1},
+  pages        = {10071},
+  doi          = {10.1038/s41598-025-94778-5},
+  url          = {https://doi.org/10.1038/s41598-025-94778-5},
+  issn         = {2045-2322}
+}
 ```
 
