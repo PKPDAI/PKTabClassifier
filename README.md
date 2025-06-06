@@ -1,7 +1,7 @@
 
 # PKTabClassifier 
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/fgh95/PKDocClassifier/blob/master/LICENSE) ![version](https://img.shields.io/badge/version-0.1.0-blue) 
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/v-smith/PKTabClassifier/blob/master/LICENSE) ![version](https://img.shields.io/badge/version-0.1.0-blue) 
 
 
 [**About the Project**](#about-the-project) | [**Dataset**](#dataset) | [**Getting Started**](#getting-started-) | [**Usage**](#usage) | [**Licence**](#lincence) | [**Citation**](#citation)

@@ -55,7 +55,6 @@ def main(
     class_weights = compute_sample_weight('balanced', y_train)
     y_val = [label2id[label] for label in val_df["label"].to_list()]
 
-
     # ============= Prep Features ================= #
     if args["representation_method"] == "bow":
         vectorizer = CountVectorizer(max_features=args["bow_max_features"])
@@ -63,7 +62,6 @@ def main(
         val_features = serialize_features(feature_names, val_df)
         X_train = vectorizer.fit_transform(train_features)
         X_val = vectorizer.transform(val_features)
-
     else:
         train_features = combine_features(feature_names, train_df, args["representation_method"], chunking=True)
         val_features = combine_features(feature_names, val_df, args["representation_method"], chunking=True)
